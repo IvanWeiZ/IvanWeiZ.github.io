@@ -169,7 +169,8 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: #ffffff;
+   font-size:medium;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -203,7 +204,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #fff;
 }
 #about .profile-pic {
    position: relative;
@@ -268,7 +269,6 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
 }
